@@ -17,3 +17,7 @@ https://symfony.com/doc/current/routing.html
 
 
 https://github.com/symfony/demo/issues/6
+
+
+
+https://openclassrooms.com/forum/sujet/symfony-3-passer-variable-formulaire-type
